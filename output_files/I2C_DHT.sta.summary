@@ -1,0 +1,257 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CLK_1KHZ:clk_1KHz|clk_out'
+Slack : -12.326
+TNS   : -84.341
+
+Type  : Slow 1200mV 85C Model Setup 'I2C:i2c|SCLSynch[1]'
+Slack : -8.855
+TNS   : -154.191
+
+Type  : Slow 1200mV 85C Model Setup 'clock'
+Slack : -4.978
+TNS   : -48.575
+
+Type  : Slow 1200mV 85C Model Setup 'CLK_1MHZ:clk_1MHz|clk_out'
+Slack : -4.593
+TNS   : -465.589
+
+Type  : Slow 1200mV 85C Model Setup 'sw[0]'
+Slack : 0.114
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLK_1MHZ:clk_1MHz|clk_out'
+Slack : 0.434
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLK_1KHZ:clk_1KHz|clk_out'
+Slack : 0.453
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'I2C:i2c|SCLSynch[1]'
+Slack : 0.453
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clock'
+Slack : 0.453
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'sw[0]'
+Slack : 0.497
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'I2C:i2c|stop'
+Slack : -2.643
+TNS   : -2.643
+
+Type  : Slow 1200mV 85C Model Recovery 'I2C:i2c|SCLSynch[1]'
+Slack : -0.771
+TNS   : -6.168
+
+Type  : Slow 1200mV 85C Model Removal 'I2C:i2c|SCLSynch[1]'
+Slack : 1.087
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'I2C:i2c|stop'
+Slack : 3.154
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'SDA'
+Slack : -3.444
+TNS   : -6.418
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -44.636
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'sw[0]'
+Slack : -3.000
+TNS   : -4.487
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK_1MHZ:clk_1MHz|clk_out'
+Slack : -1.487
+TNS   : -193.310
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'I2C:i2c|SCLSynch[1]'
+Slack : -1.487
+TNS   : -41.668
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK_1KHZ:clk_1KHz|clk_out'
+Slack : -1.487
+TNS   : -31.227
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'I2C:i2c|stop'
+Slack : -1.487
+TNS   : -1.487
+
+Type  : Slow 1200mV 0C Model Setup 'CLK_1KHZ:clk_1KHz|clk_out'
+Slack : -11.465
+TNS   : -76.566
+
+Type  : Slow 1200mV 0C Model Setup 'I2C:i2c|SCLSynch[1]'
+Slack : -8.133
+TNS   : -141.801
+
+Type  : Slow 1200mV 0C Model Setup 'clock'
+Slack : -4.602
+TNS   : -42.481
+
+Type  : Slow 1200mV 0C Model Setup 'CLK_1MHZ:clk_1MHz|clk_out'
+Slack : -4.246
+TNS   : -429.957
+
+Type  : Slow 1200mV 0C Model Setup 'sw[0]'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLK_1MHZ:clk_1MHz|clk_out'
+Slack : 0.383
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLK_1KHZ:clk_1KHz|clk_out'
+Slack : 0.401
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clock'
+Slack : 0.401
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'I2C:i2c|SCLSynch[1]'
+Slack : 0.402
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'sw[0]'
+Slack : 0.445
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'I2C:i2c|stop'
+Slack : -2.334
+TNS   : -2.334
+
+Type  : Slow 1200mV 0C Model Recovery 'I2C:i2c|SCLSynch[1]'
+Slack : -0.670
+TNS   : -5.360
+
+Type  : Slow 1200mV 0C Model Removal 'I2C:i2c|SCLSynch[1]'
+Slack : 0.889
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'I2C:i2c|stop'
+Slack : 2.914
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'SDA'
+Slack : -3.444
+TNS   : -6.418
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -44.636
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'sw[0]'
+Slack : -3.000
+TNS   : -4.487
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK_1MHZ:clk_1MHz|clk_out'
+Slack : -1.487
+TNS   : -193.310
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'I2C:i2c|SCLSynch[1]'
+Slack : -1.487
+TNS   : -42.209
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK_1KHZ:clk_1KHz|clk_out'
+Slack : -1.487
+TNS   : -31.341
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'I2C:i2c|stop'
+Slack : -1.487
+TNS   : -1.487
+
+Type  : Fast 1200mV 0C Model Setup 'CLK_1KHZ:clk_1KHz|clk_out'
+Slack : -4.850
+TNS   : -25.986
+
+Type  : Fast 1200mV 0C Model Setup 'I2C:i2c|SCLSynch[1]'
+Slack : -3.077
+TNS   : -51.335
+
+Type  : Fast 1200mV 0C Model Setup 'clock'
+Slack : -1.560
+TNS   : -10.425
+
+Type  : Fast 1200mV 0C Model Setup 'CLK_1MHZ:clk_1MHz|clk_out'
+Slack : -1.416
+TNS   : -128.114
+
+Type  : Fast 1200mV 0C Model Setup 'sw[0]'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLK_1MHZ:clk_1MHz|clk_out'
+Slack : 0.179
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLK_1KHZ:clk_1KHz|clk_out'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'I2C:i2c|SCLSynch[1]'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clock'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'sw[0]'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'I2C:i2c|stop'
+Slack : -1.306
+TNS   : -1.306
+
+Type  : Fast 1200mV 0C Model Recovery 'I2C:i2c|SCLSynch[1]'
+Slack : -0.089
+TNS   : -0.712
+
+Type  : Fast 1200mV 0C Model Removal 'I2C:i2c|SCLSynch[1]'
+Slack : 0.513
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'I2C:i2c|stop'
+Slack : 2.034
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -32.761
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'SDA'
+Slack : -3.000
+TNS   : -5.212
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'sw[0]'
+Slack : -3.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK_1MHZ:clk_1MHz|clk_out'
+Slack : -1.000
+TNS   : -130.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'I2C:i2c|SCLSynch[1]'
+Slack : -1.000
+TNS   : -28.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK_1KHZ:clk_1KHz|clk_out'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'I2C:i2c|stop'
+Slack : -1.000
+TNS   : -1.000
+
+------------------------------------------------------------

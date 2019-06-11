@@ -1,0 +1,16 @@
+Fitter Status : Successful - Tue Jun 11 19:09:24 2019
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : I2C_DHT
+Top-level Entity Name : I2C_DHT
+Family : Cyclone IV E
+Device : EP4CE6E22C8
+Timing Models : Final
+Total logic elements : 590 / 6,272 ( 9 % )
+    Total combinational functions : 562 / 6,272 ( 9 % )
+    Dedicated logic registers : 211 / 6,272 ( 3 % )
+Total registers : 211
+Total pins : 24 / 92 ( 26 % )
+Total virtual pins : 0
+Total memory bits : 0 / 276,480 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )

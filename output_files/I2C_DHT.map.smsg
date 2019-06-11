@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at DHT22.v(53): always construct contains both blocking and non-blocking assignments File: D:/My Documents/Quartus Projects/EPM240T100C5/I2C_DHT/DHT22.v Line: 53
